@@ -113,5 +113,5 @@ This oscilloscope project solves the problem of needing a bulky benchtop instrum
 
 ## Author
 
-Jainil Patel
-Parth Patel
+- Jainil Patel
+- Parth Patel
